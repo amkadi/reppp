@@ -1,0 +1,30 @@
+{
+  "background_color": "#f4f4f4",
+  "description": "Hi, I'm Oussama AMKADI, a Digital Marketer student &amp; Graphic Designer with more than 5 Years of experience in the Business ! Welcome to my Portfolio",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "The Ous | Graphic Artist",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "THE OUS",
+  "start_url": "/",
+  "theme_color": "#ee4e4e",
+  "categories": [
+    "personalization",
+    "photo"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/amkadi/reppp/main/metatag.jpg",
+      "type": "image/jpeg",
+      "sizes": "1400x829"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "en"
+}
