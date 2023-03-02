@@ -16,9 +16,9 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/amkadi/reppp/main/metatag.jpg",
+      "src": "https://raw.githubusercontent.com/amkadi/reppp/main/Logo.png",
       "type": "image/jpeg",
-      "sizes": "1400x829"
+      "sizes": "1015x1015"
     },
     {
       "src": "/favicon.ico",
